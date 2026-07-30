@@ -112,5 +112,3 @@ Suggested companies to try (a mix of well-covered and thinner-data cases, to sho
 - Persist case files (Postgres) so past research is browsable and comparable over time.
 - Add eval cases (e.g. a fixed list of companies with expected verdict direction) to catch regressions when prompts change.
 - Mobile polish on the dossier layout — current responsive breakpoint is basic.
-
----
