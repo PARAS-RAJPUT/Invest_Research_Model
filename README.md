@@ -114,7 +114,3 @@ Suggested companies to try (a mix of well-covered and thinner-data cases, to sho
 - Mobile polish on the dossier layout — current responsive breakpoint is basic.
 
 ---
-
-## LLM chat session logs (bonus)
-
-Add your transcript/logs here, or as a separate file in the submission zip, per the assignment's bonus instructions.
