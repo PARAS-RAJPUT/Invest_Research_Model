@@ -1,0 +1,13 @@
+# Exclude node_modules from both packages (Vercel installs them itself)
+frontend/node_modules
+backend/node_modules
+node_modules
+
+# Exclude local env files (set these as Vercel Environment Variables instead)
+.env
+frontend/.env
+backend/.env
+
+# Dev-only files
+*.log
+.DS_Store
